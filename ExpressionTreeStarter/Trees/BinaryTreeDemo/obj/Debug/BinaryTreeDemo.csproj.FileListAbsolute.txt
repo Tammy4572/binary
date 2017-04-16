@@ -1,0 +1,18 @@
+H:\Visual Studio 2013\Projects\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe.config
+H:\Visual Studio 2013\Projects\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe
+H:\Visual Studio 2013\Projects\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.pdb
+H:\Visual Studio 2013\Projects\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.exe
+H:\Visual Studio 2013\Projects\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.pdb
+C:\Users\anderson\trident\projects\CPT-244\Trees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe.config
+C:\Users\anderson\trident\projects\CPT-244\Trees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe
+C:\Users\anderson\trident\projects\CPT-244\Trees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.pdb
+C:\Users\anderson\trident\projects\CPT-244\Trees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.csprojResolveAssemblyReference.cache
+C:\Users\anderson\trident\projects\CPT-244\Trees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.exe
+C:\Users\anderson\trident\projects\CPT-244\Trees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.pdb
+H:\Courses\CPT244-new\projects\BinaryExpressionTrees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe.config
+H:\Courses\CPT244-new\projects\BinaryExpressionTrees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.exe
+H:\Courses\CPT244-new\projects\BinaryExpressionTrees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.pdb
+H:\Courses\CPT244-new\projects\BinaryExpressionTrees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe
+H:\Courses\CPT244-new\projects\BinaryExpressionTrees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.pdb
+H:\Courses\CPT244-new\projects\BinaryExpressionTrees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.csprojResolveAssemblyReference.cache
